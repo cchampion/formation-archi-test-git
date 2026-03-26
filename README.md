@@ -1,7 +1,3 @@
-# Titre 1
+# Repo de test pour git
 
-## Titre 2
-
-- liste
-- liste2
-- list3
+Utiliser pour le cours architecture logiciel pour expliquer les merges sur git
