@@ -11,10 +11,14 @@
             "id": "47704b1385131996",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "README"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de README"
             }
           }
         ],
@@ -174,7 +179,8 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "47704b1385131996",
